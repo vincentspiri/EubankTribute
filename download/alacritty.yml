@@ -1,0 +1,19 @@
+import:
+    - ~/.config/alacritty/dracula.yml
+
+font:
+  normal:
+    family: terminus
+    style: Light
+  bold:
+    family: terminus
+    style: Medium
+  italic:
+    family: terminus
+    style: Italic
+  bold_italic:
+    family: terminus
+    style: Bold Italic
+  
+  size: 14
+
